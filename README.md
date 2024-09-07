@@ -1,5 +1,6 @@
 
 # Understanding JavaScript Data Types
+![Screenshot of the finished webpage](./assets/images/example.png)
 
 ## Description 📄
 
