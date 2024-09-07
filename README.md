@@ -33,7 +33,7 @@ Before diving into data types, it's important to understand variables. A variabl
 
 A `string` is a sequence of characters used to represent text. They are enclosed in single quotes (`'...'`) or double quotes (`"..."`).
 
-- [ ] Add the following JavaScript variable to your `index.js` file to define a `string`:
+- [ ] Add the following JavaScript variables to your `index.js` file to define a `string`:
 
 ```js
 // String
@@ -59,6 +59,7 @@ A `number` represents numeric data and can be either an integer (whole number) o
 - [ ] Add the following JavaScript variable to your `index.js` file to define a `number`:
 
 ```js
+// Number
 const myAge = 22;
 console.log(myAge); // Expected Output: 22
 console.log(typeof myAge); // Expected Output: "number"
@@ -76,8 +77,11 @@ A `boolean` represents logical values and can be either `true` or `false`.
 - [ ] Add the following JavaScript variable to your `index.js` file to define a `boolean`:
 
 ```js
+// Boolean
 const isStudent = true;
 const hasGraduated = false;
+console.log(isStudent); // Expected Output: true
+console.log(hasGraduated); // Expected Output: false
 ```
 
 **Explanation:**
@@ -92,6 +96,7 @@ const hasGraduated = false;
 - [ ] Add the following JavaScript variable to your `index.js` file to demonstrate an `undefined` value:
 
 ```js
+// Undefined
 let user; // Declared but not assigned
 console.log(user); // Expected Output: undefined
 ```
@@ -107,6 +112,7 @@ console.log(user); // Expected Output: undefined
 - [ ] Add the following JavaScript variable to your `index.js` file to demonstrate a `null` value:
 
 ```js
+// Null
 const nullUser = null;
 console.log(nullUser) // Expected Output: "null"
 ```
@@ -122,6 +128,7 @@ Arrays are ordered collections of other data types, allowing you to store multip
 - [ ] Add the following JavaScript `array` to your `index.js` file:
 
 ```js
+// Array
 const people = ["Alice", "Bob", "Charlie"];
 console.log(people); // Expected Output: ["Alice", "Bob", "Charlie"]
 ```
@@ -139,12 +146,13 @@ Objects store related data as key-value pairs, allowing you to access data descr
 - [ ] Add the following JavaScript `object` to your `index.js` file:
 
 ```js
+// Object
 const person = {
   name: "Alice",
   age: 22,
   isStudent: false
 };
-console.log(person); // Expected Output: { name: 'Alice', age: 30, isStudent: false }
+console.log(person); // Expected Output: { name: 'Alice', age: 22, isStudent: false }
 ```
 
 **Explanation:**
@@ -170,7 +178,7 @@ In this lab, you learned about different data types in JavaScript, including str
 
 💾 **Not something to copy and paste** 💾
 
-**Note:**  This lab references a solution file located [here]() (link not shown).
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-01-js-data-types/tree/solution) (link not shown).
 
 
 ---
