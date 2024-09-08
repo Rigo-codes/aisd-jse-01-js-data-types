@@ -46,6 +46,8 @@ const myAgeAsAString = "22";
 console.log(myAgeAsAString); // Expected Output: "22"
 console.log(typeof myAgeAsAString); // Expected Output: "string"
 ```
+- [ ] To see your code in action, run the javascript file in your terminal by using the following command `node index.js`
+
 
 **Explanation:**
 
@@ -65,6 +67,7 @@ const myAge = 22;
 console.log(myAge); // Expected Output: 22
 console.log(typeof myAge); // Expected Output: "number"
 ```
+- [ ] To see your code in action, run the javascript file in your terminal by using the following command `node index.js`
 
 **Explanation:**
 
@@ -84,6 +87,7 @@ const hasGraduated = false;
 console.log(isStudent); // Expected Output: true
 console.log(hasGraduated); // Expected Output: false
 ```
+- [ ] To see your code in action, run the javascript file in your terminal by using the following command `node index.js`
 
 **Explanation:**
 
@@ -102,6 +106,8 @@ let user; // Declared but not assigned
 console.log(user); // Expected Output: undefined
 ```
 
+- [ ] To see your code in action, run the javascript file in your terminal by using the following command `node index.js`
+
 **Explanation:**
 
 - The variable `user` is declared but not given a value, so it is `undefined`.
@@ -118,6 +124,8 @@ const nullUser = null;
 console.log(nullUser) // Expected Output: "null"
 ```
 
+- [ ] To see your code in action, run the javascript file in your terminal by using the following command `node index.js`
+
 **Explanation:**
 
 - `nullUser` is explicitly set to `null`, indicating it has no value.
@@ -133,6 +141,8 @@ Arrays are ordered collections of other data types, allowing you to store multip
 const people = ["Alice", "Bob", "Charlie"];
 console.log(people); // Expected Output: ["Alice", "Bob", "Charlie"]
 ```
+
+- [ ] To see your code in action, run the javascript file in your terminal by using the following command `node index.js`
 
 **Explanation:**
 
@@ -156,19 +166,17 @@ const person = {
 console.log(person); // Expected Output: { name: 'Alice', age: 22, isStudent: false }
 ```
 
+- [ ] To see your code in action, run the javascript file in your terminal by using the following command `node index.js`
+
 **Explanation:**
 - `person` is an `object` with three properties:
   -  `name`: Stores the person's name, which is a `string` ("Alice").
   - `age`: Stores the person's age, which is a `number` (22).
   - `isStudent`: Stores whether the person is a student, which is a `boolean` (false).
 
-## 10. **Run Your Code**
+## 10. **Commit and Push to Github**
 
-- [ ] To see your code in action, you can run the `index.js` file in your terminal by using the following command:
-
-```sh
-node index.js
-```
+- [ ] Commit and push your work to Github.
 
 ## Conclusion 📄
 
@@ -185,3 +193,4 @@ In this lab, you learned about different data types in JavaScript, including str
 ---
 
 © All rights reserved to ThriveDX
+
