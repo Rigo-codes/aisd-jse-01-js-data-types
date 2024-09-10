@@ -46,7 +46,7 @@ const myAgeAsAString = "22";
 console.log(myAgeAsAString); // Expected Output: "22"
 console.log(typeof myAgeAsAString); // Expected Output: "string"
 ```
-- [ ] To see your code in action, run the javascript file in your terminal by using the following command `node index.js`
+- [ ] See your code in action: Run the javascript file in your terminal by typing the following command `node index.js` and pressing enter on your keyboard.
 
 
 **Explanation:**
@@ -67,7 +67,7 @@ const myAge = 22;
 console.log(myAge); // Expected Output: 22
 console.log(typeof myAge); // Expected Output: "number"
 ```
-- [ ] To see your code in action, run the javascript file in your terminal by using the following command `node index.js`
+- [ ] See your code in action: Run the javascript file in your terminal by typing the following command `node index.js` and pressing enter on your keyboard.
 
 **Explanation:**
 
@@ -87,7 +87,7 @@ const hasGraduated = false;
 console.log(isStudent); // Expected Output: true
 console.log(hasGraduated); // Expected Output: false
 ```
-- [ ] To see your code in action, run the javascript file in your terminal by using the following command `node index.js`
+- [ ] See your code in action: Run the javascript file in your terminal by typing the following command `node index.js` and pressing enter on your keyboard.
 
 **Explanation:**
 
@@ -106,7 +106,7 @@ let user; // Declared but not assigned
 console.log(user); // Expected Output: undefined
 ```
 
-- [ ] To see your code in action, run the javascript file in your terminal by using the following command `node index.js`
+- [ ] See your code in action: Run the javascript file in your terminal by typing the following command `node index.js` and pressing enter on your keyboard.
 
 **Explanation:**
 
@@ -124,7 +124,7 @@ const nullUser = null;
 console.log(nullUser) // Expected Output: "null"
 ```
 
-- [ ] To see your code in action, run the javascript file in your terminal by using the following command `node index.js`
+- [ ] See your code in action: Run the javascript file in your terminal by typing the following command `node index.js` and pressing enter on your keyboard.
 
 **Explanation:**
 
@@ -142,7 +142,7 @@ const people = ["Alice", "Bob", "Charlie"];
 console.log(people); // Expected Output: ["Alice", "Bob", "Charlie"]
 ```
 
-- [ ] To see your code in action, run the javascript file in your terminal by using the following command `node index.js`
+- [ ] See your code in action: Run the javascript file in your terminal by typing the following command `node index.js` and pressing enter on your keyboard.
 
 **Explanation:**
 
@@ -166,7 +166,7 @@ const person = {
 console.log(person); // Expected Output: { name: 'Alice', age: 22, isStudent: false }
 ```
 
-- [ ] To see your code in action, run the javascript file in your terminal by using the following command `node index.js`
+- [ ] See your code in action: Run the javascript file in your terminal by typing the following command `node index.js` and pressing enter on your keyboard.
 
 **Explanation:**
 - `person` is an `object` with three properties:
